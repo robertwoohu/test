@@ -486,7 +486,7 @@
 	}
 
 		ul li {
-			padding-left: 2em;
+			padding-left: 0.5em;
 		}
 
 		ul.alt {
@@ -518,7 +518,7 @@
 
 				ul.icons li a {
 					text-decoration: none;
-					position: relative;
+					position: fixed;
 					display: block;
 					width: 3.75em;
 					height: 3.75em;
