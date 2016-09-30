@@ -181,7 +181,7 @@
 	}
 
 	p {
-		margin: 0 0 0.5em 0;
+		margin: 0 0 1.5em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -518,7 +518,7 @@
 
 				ul.icons li a {
 					text-decoration: none;
-					position: fixed;
+					position: relative;
 					display: block;
 					width: 3.75em;
 					height: 3.75em;
@@ -551,7 +551,7 @@
 
 					ul.icons li a:before {
 						position: absolute;
-						top: 0;
+						top: 100;
 						left: 0;
 						width: inherit;
 						height: inherit;
