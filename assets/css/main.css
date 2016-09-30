@@ -551,8 +551,8 @@
 
 					ul.icons li a:before {
 						position: absolute;
-						top: 10;
-						left: 0;
+						top: 0;
+						left: -100;
 						width: inherit;
 						height: inherit;
 						font-size: 1.85rem;
