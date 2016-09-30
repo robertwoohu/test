@@ -507,7 +507,7 @@
 		ul.icons {
 			cursor: default;
 			list-style: none;
-			padding-left: -5em;
+			padding-left: 0em;
 			margin-top: -0.675em;
 		}
 
