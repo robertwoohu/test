@@ -84,8 +84,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default {
-	background-color: #ffffff00;
-	opacity: 1;
+	background-color: #000;
+	opacity: 0.65;
 	border-color: transparent;
 }
 
